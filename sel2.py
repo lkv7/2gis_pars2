@@ -4,6 +4,3 @@ print(a * b)
 name = input("Enter your name: ")
 print(name)
 
-name = input("Enter your name: ")
-print(name)
-лоло
